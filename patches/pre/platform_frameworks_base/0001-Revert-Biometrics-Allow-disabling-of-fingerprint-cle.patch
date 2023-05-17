@@ -1,7 +1,7 @@
 From 0d531f2cacc705044c38c5c852f5c9e4bf8f9482 Mon Sep 17 00:00:00 2001
 From: TheAtt1la <alittauwu@gmail.com>
 Date: Sun, 5 Feb 2023 22:35:52 +0100
-Subject: [PATCH 1/3] Revert Biometrics: Allow disabling of fingerprint cleanups
+Subject: [PATCH 1/5] Revert Biometrics: Allow disabling of fingerprint cleanups
 
 ---
  .../sensors/fingerprint/hidl/Fingerprint21.java           | 8 --------
