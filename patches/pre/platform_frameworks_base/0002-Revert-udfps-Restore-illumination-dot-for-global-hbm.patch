@@ -1,7 +1,7 @@
 From 494843c1fa0c283dc4f2fc5f79aad9a60a46b375 Mon Sep 17 00:00:00 2001
 From: TheAtt1la <alittauwu@gmail.com>
 Date: Sun, 5 Feb 2023 22:50:56 +0100
-Subject: [PATCH 2/3] Revert udfps: Restore illumination dot for global hbm
+Subject: [PATCH 2/5] Revert udfps: Restore illumination dot for global hbm
 
 ---
  packages/SystemUI/res/layout/udfps_view.xml   |  6 ----
